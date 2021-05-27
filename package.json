@@ -2,7 +2,7 @@
   "name": "statecheckpt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Aslm88.github.io/statecheckpt",
+  "homepage": "http://Aslm88.github.io/statecheckpoint",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.2.0"
   }
 }
